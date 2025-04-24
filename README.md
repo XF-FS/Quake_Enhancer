@@ -12,7 +12,7 @@
 ## 安装
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展。
-2. 点击 [这里](https://github.com/your-repo/your-script/raw/main/quake.user.js) 安装脚本。
+2. 点击 [这里](https://github.com/XF-FS/Quake_Enhancer/blob/main/quake%20%E5%A2%9E%E5%BC%BA-2025-04-23v2.0.user.js) 安装脚本。
 3. 使用前需要允许Tampermonkey访问全部网站的权限。
 
 ## 使用
